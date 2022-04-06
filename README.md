@@ -17,13 +17,5 @@ over the internet’
 
 ```
 Amazon Computer Services
-
 ```
 
-
-![image](https://user-images.githubusercontent.com/67835881/161903756-01db2d78-5be1-475f-ba00-1bfced2ec623.png)
-
-<br>
-![image](https://user-images.githubusercontent.com/67835881/161904063-221db043-5b5b-4af1-bdd0-98b528163441.png)
-
-<br>
