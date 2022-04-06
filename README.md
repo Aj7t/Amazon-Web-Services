@@ -47,7 +47,12 @@ Other Aws-services
 ![image](https://user-images.githubusercontent.com/67835881/161908916-2c8bad22-e227-42d8-9e9c-047756df72a3.png)
 
 <br>
+
 **API gateway** : Build apply and manage API
+<br>
+![image](https://user-images.githubusercontent.com/67835881/161909982-6b228f3f-60ab-41ea-8a11-dc28a130ee66.png)
+
+Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services. Using API Gateway, you can create RESTful APIs and WebSocket APIs that enable real-time two-way communication applications. API Gateway supports containerized and serverless workloads, as well as web applications.
 
 
 
@@ -55,6 +60,6 @@ Other Aws-services
 ```
 List of all AWS services
 ```
-List of all AWS services [Click here](https://allcode.com/top-aws-services/)
+**List of all AWS services** [Click here](https://allcode.com/top-aws-services/)
 <br>
 
