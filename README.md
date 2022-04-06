@@ -8,7 +8,7 @@
 Networking, Monitoring,DevOps, Analyst, IOT etc) on rent and also through a network that can be accessed over the internet’
  
  
-** AWS-services ** 
+**AWS-services** <br>
 ![image](https://user-images.githubusercontent.com/67835881/161903756-01db2d78-5be1-475f-ba00-1bfced2ec623.png)
  
 
