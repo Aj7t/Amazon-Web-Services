@@ -33,10 +33,12 @@ Amazon Database Services
 ```
 Amazon Storage Services
 ```
+**S3** : Scalable storage in cloud
 ![image](https://user-images.githubusercontent.com/67835881/161907333-5382b237-7741-4f7b-96ae-de09948c13eb.png)
 
 
 ```
 Other Aws-services 
 ```
+**VPC** : Isolate cloud Resources 
 ![image](https://user-images.githubusercontent.com/67835881/161907668-24a4fefd-1654-4141-9bb9-14d427028583.png)
