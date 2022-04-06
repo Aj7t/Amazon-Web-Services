@@ -42,3 +42,19 @@ Other Aws-services
 ```
 **VPC** : Isolate cloud Resources 
 ![image](https://user-images.githubusercontent.com/67835881/161907668-24a4fefd-1654-4141-9bb9-14d427028583.png)
+<br>
+**Cloud-Watch** : Monitor Resources and application
+![image](https://user-images.githubusercontent.com/67835881/161908916-2c8bad22-e227-42d8-9e9c-047756df72a3.png)
+
+<br>
+**API gateway** : Build apply and manage API
+
+
+
+
+```
+List of all AWS services
+```
+List of all AWS services [Click here](https://allcode.com/top-aws-services/)
+<br>
+
