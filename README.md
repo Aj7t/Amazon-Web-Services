@@ -26,3 +26,8 @@ Amazon Computer Services
 Amazon Database Services
 ```
 ![image](https://user-images.githubusercontent.com/67835881/161906952-023b68e7-596d-46a1-9906-f47de4e217dc.png)
+
+```
+Amazon Storage Services
+```
+![image](https://user-images.githubusercontent.com/67835881/161907333-5382b237-7741-4f7b-96ae-de09948c13eb.png)
