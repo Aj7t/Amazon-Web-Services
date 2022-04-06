@@ -6,8 +6,9 @@
  
 ``` 
  
-‘Cloud Computing is nothing but a practice of providing of Cloud Services (Storage, Computation, Databases, Security, databases, 
-Networking, Monitoring,DevOps, Analyst, IOT etc) on rent and also through a network that can be accessed over the internet’
+‘Cloud Computing is nothing but a practice of providing of Cloud Services (Storage, Computation, Databases, Security,
+databases, Networking, Monitoring,DevOps, Analyst, IOT etc) on rent and also through a network that can be accessed 
+over the internet’
  
 ``` 
  
