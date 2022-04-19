@@ -12,7 +12,9 @@ steps :
 4. if errors in code check on cloudWatch
 5. deploy the API (beta)
 
-check out my API [click here](https://rbhcz0ivuh.execute-api.ap-south-1.amazonaws.com/beta/intro)
+check out my API [click here](https://rbhcz0ivuh.execute-api.ap-south-1.amazonaws.com/ajit/intro)
+
+
 
 
 ## reference 
