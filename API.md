@@ -13,3 +13,8 @@ steps :
 5. deploy the API
 
 check out my API [click here](https://rbhcz0ivuh.execute-api.ap-south-1.amazonaws.com/beta/intro)
+
+
+## reference 
+
+[How to build an API with Lambdas and API Gateway](https://www.freecodecamp.org/news/building-an-api-with-lambdas-and-api-gateway-11254e23b703/)
