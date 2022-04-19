@@ -1,7 +1,7 @@
 
 ## How to build an API with Lambdas and API Gateway
 
-[Code link ](https://github.com/Aj7t/FastAPI/blob/main/myApiApp.zip)
+code for lambda function : [click this link ](https://github.com/Aj7t/FastAPI/blob/main/myApiApp.zip)
 
 
 steps : 
